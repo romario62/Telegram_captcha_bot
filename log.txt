@@ -1,0 +1,30 @@
+int() argument must be a string, a bytes-like object or a number, not 'NoneType'int() argument must be a string, a bytes-like object or a number, not 'NoneType'2020-04-15 : unsupported operand type(s) for +: 'NoneType' and 'int'
+2020-04-15 : int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-04-15 : int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-04-15 : int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-04-15 : not readable
+2020-04-15 : not readable
+2020-04-15 : not writable
+2020-04-15 : not writable
+2020-04-15 : not writable
+2020-04-15 : not writable
+2020-04-15 : can only concatenate str (not "NoneType") to str
+2020-04-15 : int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2020-04-15 : not writable
+2020-04-15 : not readable
+2020-04-20 : Incorrect number of bindings supplied. The current statement uses 1, and there are 9 supplied.
+2020-04-20 : Incorrect number of bindings supplied. The current statement uses 1, and there are 9 supplied.
+2020-04-20 : Incorrect number of bindings supplied. The current statement uses 1, and there are 9 supplied.
+2020-04-20 : %u format: a number is required, not str
+2020-04-20 : %u format: a number is required, not str
+2020-04-20 : %d format: a number is required, not str
+2020-04-20 : ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+2020-04-24 : 'int' object is not callable
+2020-04-24 : no such table: users
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
+2020-04-25 : list index out of range
