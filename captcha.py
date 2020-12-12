@@ -7,7 +7,7 @@ import random
 from telebot import *
 import datetime
 # токен от бота
-token = '1019218974:AAGt2rH7tbylbWMu-XNWD_KFZbPIU1Damv0'
+token = 'token'
 bot = telebot.TeleBot(token)
 def add_friend(user_id):
     conn = lite.connect('users.sqlite3')
